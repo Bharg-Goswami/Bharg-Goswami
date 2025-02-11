@@ -1,4 +1,4 @@
- 👋 Hwllo, I’m Bharg,
+ 👋 Hello, I’m Bharg,
  👀 I’m interested in QA Testing
 
 
