@@ -7,6 +7,7 @@ I’m a **QA Testing Enthusiast** and currently in the process of building my ca
 ## 🧑‍💻 About Me
 I've Completed an **MCA** (Master of Computer Applications) from **The Maharaja Sayajirao University of Baroda**, and although my current academic performance is a bit challenging, I am working diligently to build my skills for the future.  
 I have a strong desire to make a career in **QA Testing**, and despite being a late bloomer in the tech field, I believe in the power of hard work and consistency.
+I Built a Timetable Management System Project with 245 test cases (95% pass rate): [github.com/Bharg-Goswami/Timetable-Management-System](https://github.com/Bharg-Goswami/Timetable-Management-System)
 
 ---
 
@@ -22,10 +23,8 @@ I have a strong desire to make a career in **QA Testing**, and despite being a l
 
 ## 📚 My Learning Process
 I'm someone who believes in a structured approach to learning:
-- **First, I build a solid foundation** with core concepts of Manual Testing, Java, and SQL.
-- **Second, I slowly transition into Automation Testing**, where I’m mastering tools like Selenium and Jenkins.
-- **Lastly, I aim to keep growing** by integrating more complex tools and frameworks, like Docker, to strengthen my automation skills.
-
+- Building a foundation with Manual Testing, Java, and SQL, while transitioning to **Automation (Selenium, Jenkins)**.
+- **Lastly, I aim to keep growing** by Aiming to grow with tools and frameworks, like Docker, to strengthen my QA Automation skills.
 My learning is **focused**, and even though it’s been a challenging start, I’m determined to become proficient and pursue a career in QA. It’s a journey, and I am embracing every bit of it.
 
 ---
