@@ -1,10 +1,10 @@
-# 👋 Hello, I’m Bharg
+# 👋🏻 Hello, I’m Bharg
 
 I’m a **QA Testing Enthusiast** and currently in the process of building my career as a Full Stack QA Tester. I'm passionate about learning and improving my skills in manual and automation testing, functional and non-functional testing, and much more. Though my journey started later in life, I am fully committed to mastering the QA domain and landing a top role at a leading MNC.
 
 ---
 
-## 🧑‍💻 About Me
+## 👦🏻 About Me
 I've Completed an **MCA** (Master of Computer Applications) from **The Maharaja Sayajirao University of Baroda**, and although my current academic performance is a bit challenging, I am working diligently to build my skills for the future.  
 I have a strong desire to make a career in **QA Testing**, and despite being a late bloomer in the tech field, I believe in the power of hard work and consistency.
 
