@@ -38,7 +38,7 @@ My learning is **focused**, and even though it’s been a challenging start, I�
 
 ---
 
-## 💪 Why I'm Doing This
+## 🌻 Why I'm Doing This
 I’ve always wanted to make a meaningful contribution to technology, and QA is where I feel I can bring value. My academic background might not be stellar, but I’m committed to **continuous learning**, and with the right mindset and effort, I know I can succeed.
 
 ---
