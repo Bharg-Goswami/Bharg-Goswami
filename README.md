@@ -4,7 +4,7 @@ I’m a **QA Testing Enthusiast** and currently in the process of building my ca
 
 ---
 
-## 👦🏻 About Me
+## 🖥️ About Me
 I've Completed an **MCA** (Master of Computer Applications) from **The Maharaja Sayajirao University of Baroda**, and although my current academic performance is a bit challenging, I am working diligently to build my skills for the future.  
 I have a strong desire to make a career in **QA Testing**, and despite being a late bloomer in the tech field, I believe in the power of hard work and consistency.
 
